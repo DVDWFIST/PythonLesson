@@ -24,4 +24,4 @@ if count < two_count:
         print (f"Решек перевернуть: {count}")
     
 else:
-        print (f"Орлов стоит перевернуть: {two_count}")
+        print (f"Орлов перевернуть: {two_count}")
